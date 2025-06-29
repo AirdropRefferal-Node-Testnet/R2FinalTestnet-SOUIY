@@ -1,0 +1,31 @@
+{
+  "name": "r2-auto-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for R2 Testnet transactions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "r2",
+    "testnet",
+    "automation",
+    "bot"
+  ],
+  "author": "AirdropRefferal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "blessed": "^0.1.81",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.10.0",
+    "figlet": "^1.7.0",
+    "form-data": "^4.0.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
