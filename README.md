@@ -49,7 +49,9 @@ cd R2FinalTestnet-SOUIY
 ### 2. Install Dependencies
 ```bash
 npm install
-# atau
+```
+#### atau
+```bash
 yarn install
 ```
 
